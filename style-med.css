@@ -1,0 +1,30 @@
+body{
+    background-color:white;
+}
+#head{
+    background-color: #fff;
+    width:100%;
+   
+}
+.list{
+    display: inline-block;
+    display: none;
+}
+#list1{
+    display: inline-block;
+    position: relative;
+    left: 700px;
+    bottom:20px;
+    
+
+}
+section{
+    background-color: #fff;
+    width:100%;
+
+    
+}
+.monster{
+    border-top:10px solid gray;
+    border-bottom:10px solid gray; 
+ }
